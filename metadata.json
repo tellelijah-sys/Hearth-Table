@@ -1,0 +1,8 @@
+{
+  "name": "Hearth & Table",
+  "description": "Offline-first global meal planner, pantry matcher, online recipe importer, and automated grocery list app for everyday kitchens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
